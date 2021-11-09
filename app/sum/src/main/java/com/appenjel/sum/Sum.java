@@ -2,7 +2,7 @@ package com.appenjel.sum;
 
 public class Sum {
 
-    public Integer d(){
+    public static Integer d(){
         return 3;
     }
 }
